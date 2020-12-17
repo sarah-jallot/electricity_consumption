@@ -1,4 +1,4 @@
-# Electric consumption prediction - ENS Data Challenge
+# ENS Data Challenge - Electric consumption prediction.
 
 We completed this project for the following ENS Data Challenge : 
 
