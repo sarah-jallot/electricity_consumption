@@ -29,3 +29,9 @@ From literature research, we first thought of lags and rolling consumption featu
 
 
 On the ENS data challenge platform, our team is called **vicdetermont & naomiserf & sjallot**.
+
+
+In the "notebooks" folder, you will find: 
+- data_exploration.ipynb : our initial data exploration notebook, with some baseline model testing. 
+- Washing_machine_model.ipynb , Kettle_model.ipynb , Fridge_freezer_model.ipynb , TV_model.ipynb : in each model, we trained an XGBoost on a custom set of features to improve our individual predictions
+- Summary.ipynb : our final restitution, which summarizes our overall approach. 
