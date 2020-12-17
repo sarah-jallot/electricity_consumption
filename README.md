@@ -6,7 +6,7 @@ We completed this project for the following ENS Data Challenge :
 
 The challenge consists of an **energy disaggregation problem** on a **time series**, generally known as NILM. From a noisy signal, a household's overall consumption over time, **we aim to predict individual consumption of four appliances, a washing machine, a fridge-freezer, a TV and a kettle, 'non-intrusively'**.
 
-![BCM Energy Logo](https://github.com/sarahj134/electricity_consumption/blob/main/challenge_img.png?raw=true)
+![BCM Energy Logo](https://github.com/sarahj134/electricity_consumption/blob/master/challenge_img.png?raw=true)
 
 
   
