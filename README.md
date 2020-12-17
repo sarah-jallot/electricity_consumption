@@ -1,4 +1,4 @@
-# Electric consumption prediction. 
+# Electric consumption prediction - ENS Data Challenge
 
 This project is an **energy disaggregation problem** on a **time series**, generally known as NILM. From a noisy signal, a household's overall consumption over time, **we aim to predict individual consumption of four appliances, a washing machine, a fridge-freezer, a TV and a kettle, 'non-intrusively'**.
 
