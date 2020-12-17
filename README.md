@@ -1,6 +1,8 @@
 # Electric consumption prediction. 
 
 This project is an **energy disaggregation problem** on a **time series**, generally known as NILM. From a noisy signal, a household's overall consumption over time, **we aim to predict individual consumption of four appliances, a washing machine, a fridge-freezer, a TV and a kettle, 'non-intrusively'**.
+
+[BCM Energy - Planete Oui Electric consumption Challenge - ENS Data Challenge ](https://challengedata.ens.fr/challenges/29)
   
 Each appliance has a **distinct signature**. This signature depends on user consumption patterns (washing-machine on week-ends for instance), product design (fridge-freezer is nearly always on), and the power each appliance consumes when on (kettle presents high spikes for example). In the **data exploration** phase, we studied the behavior of our appliances  compared to the total electrical consumption of the household on different timescales. It appears that individual appliances bear different relations to consumption depending on whether they are **on or off**, showing that detecting **edges and spikes**  in consumption could be very useful for predictions.   
    
